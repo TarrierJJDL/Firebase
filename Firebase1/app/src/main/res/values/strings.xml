@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase1</string>
+
+    <string name="n_nu">nomuser</string>
+    <string name="n_c">correo</string>
+    <string name="n_nya">nomyape</string>
+    <string name="n_dir">direccion</string>
+
+    <string name="n_n">nombre</string>
+</resources>
